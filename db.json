@@ -1,0 +1,35 @@
+{
+    "caes": [{
+        "id": 1,
+        "nome": "Rex",
+        "raca": "Golden Retriever",
+        "idade": 5,
+        "sexo": "Masculino",
+        "porte": "Grande",
+        "casinha": 18,
+        "adotado": false,
+        "imagem": "https://www.petz.com.br/cachorro/racas/golden-retriever/img/golden-retriever-veterinario-guia-racas.jpg"
+    },
+    {
+        "id": 2,
+        "nome": "Rubídio",
+        "raca": "Schnauzer",
+        "idade": 4,
+        "sexo": "Masculino",
+        "porte": "Médio",
+        "casinha": 1,
+        "adotado": false,
+        "imagem": "https://www.petz.com.br/cachorro/racas/schnauzer-miniatura/img/schnauzer-miniatura-caracteristicas-guia-racas.webp"
+    },
+    {
+        "id": 3,
+        "nome": "Peleco",
+        "raca": "Vira-lata",
+        "idade": 3,
+        "sexo": "Masculino",
+        "porte": "Médio",
+        "casinha": 2,
+        "adotado": false,
+        "imagem": "https://www.petvale.com.br/imagens/84160-doar-vira-lata-macho-canhema-diadema-sp_26603.jpg"
+    }]
+}
