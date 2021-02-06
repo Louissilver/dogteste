@@ -1,1 +1,1 @@
-web: json-server --watch db.json
+web: json-server db.json
