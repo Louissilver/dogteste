@@ -1,15 +1,112 @@
 {
+  "racas": [
+    {
+      "id": 1,
+      "raca": "Akita"
+    },
+    {
+      "id": 2,
+      "raca": "Beagle"
+    },
+    {
+      "id": 3,
+      "raca": "Border-collie"
+    },
+    {
+      "id": 4,
+      "raca": "Doberman"
+    },
+    {
+      "id": 5,
+      "raca": "Vira-lata"
+    },
+    {
+      "id": 6,
+      "raca": "Yorkshire"
+    }
+  ],
+  "parceiros": [
+    {
+      "id": 1,
+      "nome": "Luís Fernando",
+      "sobrenome": "da Silveira",
+      "CPF": 69781574305,
+      "senha": "123abc",
+      "email": "luis123@teste.com",
+      "telefone": 11998877665,
+      "endereco": "Rua das Palmeiras",
+      "numero": 123,
+      "cidade": "Campinas",
+      "estado": "SP",
+      "CEP": 83514700
+    }
+  ],
   "caes": [
     {
       "id": 1,
-      "nome": "Rex",
-      "raca": "Golden Retriever",
+      "casinha": 1,
+      "nome": "Tsubaki",
+      "idRaca": 1,
+      "idade": 8,
+      "sexo": "Feminino",
+      "porte": "Grande",
+      "adotado": false,
+      "imagem": "https://love.doghero.com.br/wp-content/uploads/2018/03/akita-1-e1542040695271.webp"
+    },
+    {
+      "id": 2,
+      "casinha": 2,
+      "nome": "Max",
+      "idRaca": 4,
       "idade": 5,
       "sexo": "Masculino",
       "porte": "Grande",
-      "casinha": 18,
       "adotado": false,
-      "imagem": "https://www.petz.com.br/cachorro/racas/golden-retriever/img/golden-retriever-veterinario-guia-racas.jpg"
+      "imagem": "https://love.doghero.com.br/wp-content/uploads/2018/03/shutterstock_75891091-1024x680.webp"
+    },
+    {
+      "id": 3,
+      "casinha": 3,
+      "nome": "Tiger",
+      "idRaca": 5,
+      "idade": 6,
+      "sexo": "Masculino",
+      "porte": "Médio",
+      "adotado": false,
+      "imagem": "https://love.doghero.com.br/wp-content/uploads/2018/09/ra%C3%A7a-de-cachorro-vira-lata-srd-1024x682.jpg"
+    },
+    {
+      "id": 4,
+      "casinha": 4,
+      "nome": "Laika",
+      "idRaca": 6,
+      "idade": 7,
+      "sexo": "Feminino",
+      "porte": "Pequeno",
+      "adotado": false,
+      "imagem": "https://love.doghero.com.br/wp-content/uploads/2018/02/shutterstock_434268268-1024x683.jpg"
+    },
+    {
+      "id": 5,
+      "casinha": 5,
+      "nome": "Umbigo",
+      "idRaca": 2,
+      "idade": 3,
+      "sexo": "Masculino",
+      "porte": "Médio",
+      "adotado": false,
+      "imagem": "https://love.doghero.com.br/wp-content/uploads/2016/10/Beagle-6.webp"
+    },
+    {
+      "id": 6,
+      "casinha": 6,
+      "nome": "Lessie",
+      "idRaca": 3,
+      "idade": 2,
+      "sexo": "Feminino",
+      "porte": "Grande",
+      "adotado": false,
+      "imagem": "https://love.doghero.com.br/wp-content/uploads/2017/03/Galeria-Border-Collie-5.jpg"
     }
   ]
 }
