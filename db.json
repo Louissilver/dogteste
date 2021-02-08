@@ -10,17 +10,6 @@
       "casinha": 18,
       "adotado": false,
       "imagem": "https://www.petz.com.br/cachorro/racas/golden-retriever/img/golden-retriever-veterinario-guia-racas.jpg"
-    },
-    {
-      "id": 2,
-      "nome": "Tsubaki",
-      "raca": "Akita",
-      "idade": 8,
-      "sexo": "Feminino",
-      "porte": "Grande",
-      "casinha": 3,
-      "adotado": false,
-      "imagem": "https://love.doghero.com.br/wp-content/uploads/2018/03/akita-1-e1542040695271.webp"
     }
   ]
 }
